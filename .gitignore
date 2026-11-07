@@ -1,0 +1,5 @@
+# Chave de deploy do catalog: segredo, nunca no git (fica no backup do Drive).
+catalog_deploy_key
+catalog_deploy_key.pub
+# Configuração local do editor e do scanner.
+.vscode/
